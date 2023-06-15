@@ -1,0 +1,20 @@
+Hi There,
+
+Glad you remembered me.
+
+This is the list of experiments for DC
+Each practical is in a seperate folder with all the code and necessary files.
+inside each folder there is a file named instruction.txt containing all the required info
+
+Exp 1:Client-Server.
+Exp 2:Remote Procedure Call.
+Exp 3:Remote Method Invocation.
+Exp 4:Message Queuing System.
+Exp 5:Group Communication.
+Exp 6:Lamport Algorithm.
+Exp 7:Techniques for Election Algorithms.
+Exp 8:Mutual Exclusion/Deadlock Detection.
+Exp 9:Stateful and Stateless File Server.
+Exp 10:HDFS and MapReduce.
+
+Best of Luck !!!
